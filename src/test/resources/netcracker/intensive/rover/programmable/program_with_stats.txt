@@ -1,4 +1,0 @@
-log off
-stats on
-===
-move
